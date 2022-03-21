@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm IshaanGautam9595</h1>
-<h3 align="center">A passionate MERN Stack developer from India.</h3>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 
 - 🔭 I’m currently working on **Multivendor e-commerce website**
 
 - 🌱 I’m currently learning **Redux**
-
-- 👯 I’m looking to collaborate on **Chat application**
 
 - 👨‍💻 All of my projects are available at [https://ishaangautamportfolio.herokuapp.com/](https://ishaangautamportfolio.herokuapp.com/)
 
