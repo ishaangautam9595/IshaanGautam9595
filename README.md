@@ -1,17 +1,10 @@
 <h1 align="center">Hi 👋, I'm IshaanGautam9595</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
-- 🔭 I’m currently working on **Multivendor e-commerce website**
 
-- 🌱 I’m currently learning **Redux**
-
-- 👨‍💻 All of my projects are available at [https://ishaangautamportfolio.herokuapp.com/](https://ishaangautamportfolio.herokuapp.com/)
-
-- 💬 Ask me about **React Js, Node Js, UI/UX Designing**
+- 💬 Ask me about **React Js, Next Js, Angular, Node Js, UI/UX Designing**
 
 - 📫 How to reach me **ishaangautam959553@gmail.com**
-
-- 📄 Know about my experiences [https://ishaangautamportfolio.herokuapp.com/](https://ishaangautamportfolio.herokuapp.com/)
 
 - ⚡ Fun fact **I am badminton player and I do know how to play Guitar**
 
