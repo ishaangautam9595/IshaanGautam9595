@@ -3,8 +3,8 @@
 
 - 💡 What fires me up: **Turning messy data into smart, scalable tools—like adaptive learning that feels personal**
 - 🚀 My Jam: **Cross-functional teams, A/B tests, and roadmaps that deliver real wins**
-- 🧑‍💻 Tech Stack: **Python, SQL, LangChain/RAG, React.js/Redux, PostgreSQL/NoSQL, Figma Prototyping, A/B Testing**
-- 💬 Ask me about **PM frameworks, AI automation, user-centric growth, EdTech hacks**
+- 🧑‍💻 Tech Stack: **Python, SQL, LangChain/RAG, LSTMs, Knowledge Graphs React.js/Redux, PostgreSQL/NoSQL, Figma Prototyping, A/B Testing**
+- 💬 Ask me about **PM frameworks, AI automation, user-centric growth, SaaS, B2B/B2C hacks**
 
 - 📫 How to reach me **ishaangautam959553@gmail.com**
 
@@ -14,15 +14,19 @@
 <ul>
   <li><strong>Adaptmate by HyggeX</strong> (B2B SaaS - Adaptive Learning)<br>
     Built knowledge graph for 80% better data quality and AI workflows with LangChain—cut delivery 40%, boosted retention 40%.<br>
-    <a href="https://ishaan-portfolio.page.gd/" target="blank">Demo</a> | <a href="https://github.com/ishaan-gautam/adaptmate" target="blank">Repo</a>
+    <a href="https://adaptmate.in/" target="blank">Demo</a>
   </li>
-  <li><strong>HyggeX Content Engine</strong> (B2C EdTech)<br>
-    Coded RAG system for 90% faster content gen, lifting engagement 50% via A/B UX flows.<br>
-    <a href="https://ishaan-portfolio.page.gd/" target="blank">Case</a> | <a href="https://github.com/ishaan-gautam/hygge-rag" target="blank">Repo</a>
+  <li><strong>HyggeX</strong> (B2C EdTech)<br>
+    Coded RAG system, knowledge Garphs for 90% faster content gen, lifting engagement 50% via A/B UX flows.<br>
+    <a href="https://blog.hyggexworld.com/" target="blank">Demo</a>
   </li>
-  <li><strong>E-Com Optimizer Tool</strong><br>
-    Optimized load times 40% with Redux/APIs (Stripe/Amadeus), driving 15% adoption.<br>
-    <a href="https://github.com/ishaan-gautam/ecom-opt" target="blank">Repo</a>
+  <li><strong>E-Commerce/Advertising Platform</strong><br>
+    Advertise everything over here whether car, bike, accessory.<br>
+    <a href="https://github.com/ishaangautam9595/advertisement-backend" target="blank">Repo</a>
+  </li>
+    <li><strong>Admin Panel</strong><br>
+    Admin Panel by which you can manage everything.<br>
+    <a href="https://github.com/ishaangautam9595/Admin-Panel/" target="blank">Repo</a>
   </li>
 </ul>
 
