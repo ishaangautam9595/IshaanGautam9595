@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishaan Gautam</h1>
-<h3 align="center">Product Manager | AI Automation Specialist | EdTech Growth Hacker</h3>
+<h3 align="center">Product Manager | AI Automation Specialist | Ex-Software Engineer</h3>
 
 - 💡 What fires me up: **Turning messy data into smart, scalable tools—like adaptive learning that feels personal**
 - 🚀 My Jam: **Cross-functional teams, A/B tests, and roadmaps that deliver real wins**
