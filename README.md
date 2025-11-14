@@ -12,12 +12,20 @@
 
 <h3 align="left">Top Projects:</h3>
 <ul>
+   <li><strong>Learn LLM</strong> (B2B SaaS - Adaptive Learning)<br>
+    Built a repository to make everyone understand how exactly LLM works and all important concepts.<br>
+    <a href="https://github.com/ishaangautam9595/Learn-LLM" target="blank">Repo</a>
+  </li>
+   <li><strong>AI Agents</strong> (B2B SaaS - Adaptive Learning)<br>
+    Built various agents to make life easy for everyone.<br>
+    <a href="https://github.com/ishaangautam9595/AI-Agents" target="blank">Repo</a>
+  </li>
   <li><strong>Adaptmate by HyggeX</strong> (B2B SaaS - Adaptive Learning)<br>
-    Built knowledge graph for 80% better data quality and AI workflows with LangChain—cut delivery 40%, boosted retention 40%.<br>
+    Built RAG systems, knowledge graph for 80% better data quality and AI workflows with LangChain, cut delivery 40%, boosted retention 40%.<br>
     <a href="https://adaptmate.in/" target="blank">Demo</a>
   </li>
   <li><strong>HyggeX</strong> (B2C EdTech)<br>
-    Coded RAG system, knowledge Garphs for 90% faster content gen, lifting engagement 50% via A/B UX flows.<br>
+    Made user experience better, did A/B Testing, SWOT Analysis, lifting engagement 50% via A/B UX flows.<br>
     <a href="https://blog.hyggexworld.com/" target="blank">Demo</a>
   </li>
   <li><strong>E-Commerce/Advertising Platform</strong><br>
