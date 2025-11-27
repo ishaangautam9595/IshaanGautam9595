@@ -12,11 +12,11 @@
 
 <h3 align="left">Top Projects:</h3>
 <ul>
-   <li><strong>Learn LLM</strong> (B2B SaaS - Adaptive Learning)<br>
+   <li><strong>Learn LLM</strong><br>
     Built a repository to make everyone understand how exactly LLM works and all important concepts.<br>
     <a href="https://github.com/ishaangautam9595/Learn-LLM" target="blank">Repo</a>
   </li>
-   <li><strong>AI Agents</strong> (B2B SaaS - Adaptive Learning)<br>
+   <li><strong>AI Agents</strong><br>
     Built various agents to make life easy for everyone.<br>
     <a href="https://github.com/ishaangautam9595/AI-Agents" target="blank">Repo</a>
   </li>
